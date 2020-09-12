@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>analogBiasing</title>
+      <link href="/2020/09/12/analogBiasing/"/>
+      <url>/2020/09/12/analogBiasing/</url>
+      
+        <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">请输入密码：</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="aed2bc895666a83d1434c1a3e75cbf6e36cdce7108e35cbb7fe243d42ea144e0">6815a3176e4df695587743c4d56633663a8e34bbebb4be488e47803e9d691b4cd4463e3c3b504e92e38145030338d78095a6d77a2ef8367ed05c2e562fdcb1d6b1a4c564cdbcf9e68af64a01b4cb619dfc6af3867d8e85ba87835877cea40fad36aa4966905e30415dda19cd09085175e3f9e39c7b21878c0819e3692b5e0d9101e2a8e87c6144fa1e711a3959584d77debb414e2391c0af02ee076a4dc2a04957ca17481b3919d90525e34867f0361a5c3d5194926373699f47894d58e81881</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Analog Circuits </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>electricalInterface</title>
       <link href="/2020/09/04/electricalInterface/"/>
       <url>/2020/09/04/electricalInterface/</url>

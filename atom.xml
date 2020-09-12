@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ruisoserious.github.io/"/>
-  <updated>2020-09-04T08:52:25.538Z</updated>
+  <updated>2020-09-12T09:42:26.453Z</updated>
   <id>http://ruisoserious.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>analogBiasing</title>
+    <link href="http://ruisoserious.github.io/2020/09/12/analogBiasing/"/>
+    <id>http://ruisoserious.github.io/2020/09/12/analogBiasing/</id>
+    <published>2020-09-12T09:36:47.000Z</published>
+    <updated>2020-09-12T09:42:26.453Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">请输入密码：</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="aed2bc895666a83d1434c1a3e75cbf6e36cdce7108e35cbb7fe243d42ea144e0">6815a3176e4df695587743c4d56633663a8e34bbebb4be488e47803e9d691b4cd4463e3c3b504e92e38145030338d78095a6d77a2ef8367ed05c2e562fdcb1d6b1a4c564cdbcf9e68af64a01b4cb619dfc6af3867d8e85ba87835877cea40fad36aa4966905e30415dda19cd09085175e3f9e39c7b21878c0819e3692b5e0d9101e2a8e87c6144fa1e711a3959584d77debb414e2391c0af02ee076a4dc2a04957ca17481b3919d90525e34867f0361a5c3d5194926373699f47894d58e81881</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted, password is required to continue reading.
+    
+    </summary>
+    
+    
+    
+      <category term="Analog Circuits" scheme="http://ruisoserious.github.io/tags/Analog-Circuits/"/>
+    
+  </entry>
   
   <entry>
     <title>electricalInterface</title>
@@ -495,32 +516,6 @@
     
     
       <category term="movie" scheme="http://ruisoserious.github.io/tags/movie/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>哲学</title>
-    <link href="http://ruisoserious.github.io/2020/04/13/philosophy/"/>
-    <id>http://ruisoserious.github.io/2020/04/13/philosophy/</id>
-    <published>2020-04-13T07:02:19.000Z</published>
-    <updated>2020-05-03T13:46:19.023Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="黑色幽默"><a href="#黑色幽默" class="headerlink" title="黑色幽默"></a>黑色幽默</h1><p>黑色幽默很有意思，深刻的幽默，悲喜交加，笑它的顽皮，它是无奈的，笑它的结局，它是必然的，如果你不知道什么是黑色幽默的话，也许《疯狂的石头》能帮你。 —— 睿<br><img src="https://pic1.zhimg.com/80/v2-42453996093bf0e90c740c238edbc42c_1440w.jpg" alt="rui"></p><blockquote><p>蝙蝠侠曾经给过我一条建议,成为你小时候需要的人</p></blockquote><p>Bruce gave me a great piece of advice once, grow into the person you needed as a kid ——— &lt;Batwoman&gt;<br><img src="https://pic3.zhimg.com/80/v2-aa907d68460a377046898aca2e650aca_1440w.jpg" alt="rui"></p><blockquote><p>现在的我常常看到事情滑稽的一面，总是忍不住发笑。</p></blockquote><p>Now I see the funny side, now I’m always smiling. ——&lt;The Joker&gt;</p><blockquote><p>如果你有擅长的事， 永远不要免费去做</p></blockquote><p>If you’re good at something, never do it for free. ——&lt;The Joker&gt;</p><blockquote><p>他们因为我与的与众不同而嘲笑我，我因为他们一个模子而嘲笑他们</p></blockquote><p>They laugh at me because I’m different. I laugh at them because they are all the same.——&lt;The Joker&gt;</p><blockquote><p>在生命的最后一刻， 人才会暴露他们的真面目</p></blockquote><p>In their last moments， people show you who they really are. —— &lt;The Joker &gt;</p><p><img src="https://pic4.zhimg.com/80/v2-0283a604dea717aba05f4a5fa8001f5b_1440w.jpg" alt="rui"></p><blockquote><p>微笑，因为它会使他人感到困惑；微笑吧，因为它比要解释伤害内心的事情容易</p></blockquote><p>Smile, because it confuses people. Smile, because it’s easier than explaining what is killing you inside. ——&lt;The Joker&gt;</p><blockquote><p>现在的人们一点都靠不住，做什么事都得靠自己。</p></blockquote><p>You can’t trust people these days. You have to do everything by yourself! ——&lt;The Joker&gt;</p><blockquote><p>我是言出必行的人</p></blockquote><p>I’m a man of my word. ——&lt;The Joker&gt;</p><p><img src="https://pic2.zhimg.com/80/v2-a8b18c2b4be5692b8673ce97d025b6b1_1440w.jpg" alt="rui"></p><blockquote><p>枪，越多越好</p></blockquote><p>Guns, lots of guns. —— &lt;John wick parabellum&gt;</p><blockquote><p>如果想要和平，就提前为战争做准备</p></blockquote><p>If you want peace, prepare for war. —— &lt;John wick parabellum&gt;</p><p><img src="https://pic3.zhimg.com/80/v2-0210f3ddd85b055b1456066a0bddb152_1440w.jpg" alt="rui"></p><blockquote><p>我们为何堕落？ 这样我们可以学会如何站起来。</p></blockquote><p>“Why do we fall ? So we can learn to pick ourselves up.”——&lt;Batman&gt;</p><blockquote><p>你的愤怒给了你更大的力量。但如果你任由它发展，它就会毁了你。</p></blockquote><p>Your anger gives you great power. But if you let it, it will destroy you. ——&lt;Batman&gt;</p><hr><p><img src="https://pic3.zhimg.com/80/v2-96edbb93dcd92f1c7aedb13c416e97df_1440w.jpg" alt="rui text"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="philosophy-哲学" scheme="http://ruisoserious.github.io/categories/philosophy-%E5%93%B2%E5%AD%A6/"/>
-    
-    
-      <category term="philosophy" scheme="http://ruisoserious.github.io/tags/philosophy/"/>
     
   </entry>
   
